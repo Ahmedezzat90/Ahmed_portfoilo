@@ -63,7 +63,7 @@ section {
     font-weight: 500;
 }
 
-.main h2 span {
+#prgrammer {
     display: inline-block;
     margin-top: 10px;
     color: #4e9eff;
@@ -304,13 +304,34 @@ section {
         font-size: 12px;
     }
 
+    .main {
+        background-color: #000016;
+    }
+
+    header{
+        padding: 7px 30px;
+    }
+
+    .logo{
+        padding-left: 19px;
+    }
+
+    .navigation a{
+        padding: 0px 6px;
+    }
+
+    #prgrammer {
+        font-size: 2em;
+    }
+    
+    #backend1{
+        font-size: 2em;
+    }
+
     .main-content h2{
         font-size: 0.8em;
     }
 
-    .main-content h3{
-        font-size: 1.4em;
-    }
     .main { background-size: 800px , 900px;
     
     }
